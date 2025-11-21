@@ -74,6 +74,7 @@ if(gazebo_FOUND)
 		advanced_plane
 		believer
 		boat
+		BB
 		cloudship
 		glider
 		iris
